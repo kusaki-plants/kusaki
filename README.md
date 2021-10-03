@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="docs/kusaki.png" alt="Kusaki">
+    <img src="docs/kusaki.svg">
 </div>
 
 <div align="center">
