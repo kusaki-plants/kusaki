@@ -22,4 +22,4 @@
 A product made to encourage those who are busy to keep plants, and to help people take care of their plants when away
 # Made for the GCSE DT NEA
 
-<a href="https://github.com/chubby1523/kusaki"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchubby1523%2Fkusaki&labelColor=%23425120&countColor=%23698032&style=flat" /></a>
+<a href="https://github.com/chubby1523/kusaki"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchubby1523%2Fkusaki&labelColor=%23425120&countColor=%23698032" /></a>
