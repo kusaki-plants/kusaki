@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="docs/kusaki.svg">
-</div>
+![Kusaki](docs/kusaki.svg)
 
 <div align="center">
   <a href="https://discord.gg/2pRWH3dY6K">
