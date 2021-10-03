@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https:\\kusaki.alexmiao.com/kusaki.png" alt="Kusaki">
+    <img src="docs/kusaki.png" alt="Kusaki">
 </div>
 
 <div align="center">
