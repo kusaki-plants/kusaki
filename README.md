@@ -1,4 +1,8 @@
 <div align="center">
+    <img src="https:\\kusaki.alexmiao.com/kusaki.png" alt="Kusaki">
+</div>
+
+<div align="center">
   <a href="https://discord.gg/2pRWH3dY6K">
     <img src="https://img.shields.io/discord/887016895017013268?color=7289DA&logo=discord&logoColor=white&style=for-the-badge&labelColor=697EC4&label=%20" alt="Discord">
   </a>
