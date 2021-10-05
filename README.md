@@ -14,13 +14,15 @@
     <img src="https://img.shields.io/github/license/chubby1523/kusaki?labelColor=DD5409&style=for-the-badge" alt="license">
   </a>
   <a href="https://gitmoji.dev">
-    <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=for-the-badge&labelColor=FFC807&textColor=white" alt="Gitmoji">
+    <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=for-the-badge&labelColor=FFC807" alt="Gitmoji">
   </a>
 </div>
-<!-- change to white -->
+
 
 # kusaki
 A product made to encourage those who are busy to keep plants, and to help people take care of their plants when away
 # Made for the GCSE DT NEA
 
-<a href="https://github.com/chubby1523/kusaki"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchubby1523%2Fkusaki&labelColor=%23425120&countColor=%23698032" /></a>
+<a href="https://github.com/chubby1523/kusaki"><img src="https://img.shields.io/tokei/lines/github/chubby1523/kusaki?labelColor=45A78A&color=56C2A2&label=lines%20of%20code&style=for-the-badge" /></a>
+<a href="https://github.com/chubby1523/kusaki"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchubby1523%2Fkusaki&labelColor=%2345a78a&countColor=%2356c2a2" /></a>
+
