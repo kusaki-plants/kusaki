@@ -1,0 +1,14 @@
+html {
+    min-height:100%;
+    background:url(bg.png);
+    background-size:cover
+  }
+  #logo{
+    width: 40%;
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
