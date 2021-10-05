@@ -23,9 +23,7 @@
 A product made to encourage those who are busy to keep plants, and to help people take care of their plants when away
 # Made for the GCSE DT NEA
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+
 
 
 <a href="https://github.com/chubby1523/kusaki"><img src="https://img.shields.io/tokei/lines/github/chubby1523/kusaki?labelColor=45A78A&color=56C2A2&label=lines%20of%20code&style=for-the-badge" /></a>
