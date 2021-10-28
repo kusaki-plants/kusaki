@@ -1,4 +1,4 @@
-![Kusaki](docs/kusaki.svg)
+![Kusaki](kusaki.svg)
 
 <div align="center">
   <a href="https://discord.gg/2pRWH3dY6K">
@@ -24,7 +24,7 @@ A product made to encourage those who are busy to keep plants, and to help peopl
 # Made for the GCSE DT NEA
 This page is to be updated in the future
 
-![Kusaki](docs/website1.png)
+![Kusaki](website1.png)
 
 <a href="https://github.com/chubby1523/kusaki"><img src="https://img.shields.io/tokei/lines/github/chubby1523/kusaki?labelColor=45A78A&color=56C2A2&label=lines%20of%20code&style=for-the-badge" /></a>
 <a href="https://github.com/chubby1523/kusaki"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchubby1523%2Fkusaki&labelColor=%2345a78a&countColor=%2356c2a2" /></a>
